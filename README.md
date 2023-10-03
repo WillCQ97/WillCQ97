@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-- My name is Willian Conceição Queiroz from Brazil (🇧🇷). 
-- 👨‍🎓 I'm a student of Computer Science at Universidade Federal do Espírito Santo.
-- 🌱 I'm currently learning the [Spring Framework](https://spring.io/) for developing REST Applications and some other interesting things like [Lua](https://www.lua.org/) and trying to do some front-end projects.
+My name is Willian Conceição Queiroz, and I'm from Brazil (🇧🇷). 
+- 👨‍🎓 I'm a student of Computer Science at the Universidade Federal do Espírito Santo.
+- 🌱 Currently, I'm learning the Spring Framework for developing REST applications, as well as exploring other interesting topics like Lua, and trying my hand at some front-end projects with Angular.
+
+Improved (I guess) by ChatGPT.
 
 <!--
 **WillCQ97/WillCQ97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
